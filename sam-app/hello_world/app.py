@@ -10,6 +10,6 @@ def lambda_handler(event, context):
     return {
         "statusCode": 200,
         "body": json.dumps({
-            "personId": personId + " from Lambda" ,
+            "personId": personId + " from Lambda and Alexander" ,
         }),
     }
