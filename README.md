@@ -1,6 +1,4 @@
 # last-app
-The last app that is going to be made during the VOT classes
-
 ## Project Description
 The main goal of this project was to gain a deeper understanding of AWS lambda functions and their potential use cases. After some research the AWS SAM was chosen for the deployment of th serverless Python application on AWS. AWS SAM simplifies the process of deploying these applications as serverless functions, making it easy to manage and scale the infrastructure.
 
